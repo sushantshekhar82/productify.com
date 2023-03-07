@@ -12,6 +12,8 @@
 <img src="https://user-images.githubusercontent.com/105901300/223352235-b1c002ef-954d-411a-9736-a07857d40f17.png" alt="productify.com home page"/>
  <h2>Filter by Category and Star</h2>
 <img src="https://user-images.githubusercontent.com/105901300/223352491-fc71ebf3-0dc6-4ed5-abae-5ed991609b48.png" alt="productify.com home page"/>
+ <h2>Single Product Page</h2>
+<img src="https://user-images.githubusercontent.com/105901300/223372204-3fb92849-2416-41c2-b221-92ac5411261d.png" alt="productify.com home page"/>
 
  <h2>Footer Page</h2>
 <img src="https://user-images.githubusercontent.com/105901300/223351538-1a93869b-14ab-44ee-ad47-4a6e4b25e3b9.png" alt="productify.com home page"/>
