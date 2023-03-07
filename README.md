@@ -1,5 +1,11 @@
 # Productify.com
 <h1>Group Project of 4 members.</h1>
+<ul>
+ <li>Kumar Sushant Shekhar</li>
+ <li>Faisal Mujtaba</li> 
+ <li>vinay kumar hatwar</li>
+ <li>Saurav</li>
+ </ul>
 <h2>Home Page</h2>
 <img src="https://user-images.githubusercontent.com/105901300/223351210-861d3165-fe3a-407e-a61e-0c277d265a84.png" alt="productify.com home page"/>
 <h2>Signup page</h2>
