@@ -1,8 +1,8 @@
 # Productify.com
-#Group Project of 4 members.
-#Home Page
+<h1>Group Project of 4 members.</h1>
+<h2>Home Page</h2>
 <img src="https://user-images.githubusercontent.com/105901300/223351210-861d3165-fe3a-407e-a61e-0c277d265a84.png" alt="productify.com home page"/>
-#Signup page
+<h2>Signup page
 ![image](https://user-images.githubusercontent.com/105901300/223351831-a87fb1ca-cd29-47f3-a36e-0b406edcf567.png)
 #Login Page
 ![image](https://user-images.githubusercontent.com/105901300/223351971-69844f33-dc11-4c88-80ee-10343ce917c3.png)
