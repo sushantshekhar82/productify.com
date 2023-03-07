@@ -31,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/105901300/223374811-637ad13b-0356-411b-950e-a773ac5d0c81.png" alt="productify.com home page"/>
  <h2>Add Product from backend</h2>
 <img src="https://user-images.githubusercontent.com/105901300/223374908-2d3fd424-c8c8-4d68-afe9-83d027d45b13.png" alt="productify.com home page"/>
- <h2>Status can change by Admin</h2>
+ <h2>All orders show in Admin panel</h2>
 <img src="https://user-images.githubusercontent.com/105901300/223375107-7a160197-4dbe-4e1a-aaaa-bffb10c16dd8.png" alt="productify.com home page"/>
  <h2>Status change one is success and other is reject</h2>
 <img src="https://user-images.githubusercontent.com/105901300/223375406-f1575e4f-85fe-445d-b19f-55f0592787a8.png" alt="productify.com home page"/>
